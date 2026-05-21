@@ -34,7 +34,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=abhi6774&theme=tokyonight&hide_border=true&card_width=900&v=2" alt="streak" />
+<img src="https://streak-stats-abhi0x.vercel.app/?user=abhi6774&theme=tokyonight&hide_border=true&card_width=900" alt="streak" />
 
 ### contribution map
 

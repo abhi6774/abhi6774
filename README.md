@@ -25,22 +25,23 @@
 
 <div align="center">
 
-### languages
-
-<img src="https://github-readme-stats-abhi0x.vercel.app/api/top-langs/?username=abhi6774&hide=html,css,scss,dockerfile,jupyter%20notebook,shell,c%2B%2B&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
 ### stats
 
-<img src="https://github-readme-stats-abhi0x.vercel.app/api?username=abhi6774&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+<a href="https://github.com/abhi6774">
+  <img height="180" src="https://github-readme-stats-abhi0x.vercel.app/api?username=abhi6774&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=440" alt="github stats" />
+  <img height="180" src="https://github-readme-stats-abhi0x.vercel.app/api/top-langs/?username=abhi6774&hide=html,css,scss,dockerfile,jupyter%20notebook,shell,c%2B%2B&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=440" alt="top languages" />
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=abhi6774&theme=tokyonight&hide_border=true" alt="streak" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=abhi6774&theme=tokyonight&hide_border=true&card_width=900" alt="streak" />
 
 ### contribution map
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi6774/abhi6774/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhi6774/abhi6774/output/github-snake.svg" />
-  <img alt="snake animation eating contributions" src="https://raw.githubusercontent.com/abhi6774/abhi6774/output/github-snake.svg" />
+  <img alt="snake animation eating contributions" src="https://raw.githubusercontent.com/abhi6774/abhi6774/output/github-snake.svg" width="900" />
 </picture>
 
 </div>

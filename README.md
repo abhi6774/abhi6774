@@ -36,6 +36,12 @@
 
 <img src="https://streak-stats-abhi0x.vercel.app/?user=abhi6774&theme=tokyonight&hide_border=true&card_width=900" alt="streak" />
 
+### algora
+
+<a href="https://algora.io/@/abhi6774">
+  <img src="https://algora.io/og/user/abhi6774" alt="abhi6774 on Algora" width="900" />
+</a>
+
 ### contribution map
 
 <picture>
